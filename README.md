@@ -1,6 +1,8 @@
-# VueCounterApp
+# Simple-Counter
 
-This template should help get you started developing with Vue 3 in Vite.
+This project is a simple counter using vue3.
+You can click the + button to add the count and click the - button to reduce the count.
+Hope you enjoy it.
 
 ## Recommended IDE Setup
 
