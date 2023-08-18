@@ -2,7 +2,10 @@
 
 This project is a simple counter using vue3.
 You can click the + button to add the count and click the - button to reduce the count.
-Hope you enjoy it.
+
+Link of demo video: https://youtu.be/Tmy3gcQ_Rm0
+
+Hope you enjoy it. 
 
 ## Recommended IDE Setup
 
